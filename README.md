@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christian199815&label=Profile%20views&color=0e75b6&style=flat" alt="christian199815" /> </p>
 
-- 🔭 I’m currently busy with the minor [Web Design & Development](/MWDND/)
+- 🔭 I’m currently busy with the minor <a href="christian199815.github.io/MWDND/">Web Design & Development</a>
 
 - 🌱 I’m currently learning **new skills with Html, Css and JS**
 
-- 👨‍💻 All of my projects are available at [https://www.chrisdonker.nl](https://www.chrisdonker.nl)
+- 👨‍💻 All of my projects are available at <a href="https://www.chrisdonker.nl">my portfolio</a>
 
 - 💬 Ask me about **what project we could work on together**
 
