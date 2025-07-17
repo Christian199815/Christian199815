@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christian199815&label=Profile%20views&color=0e75b6&style=flat" alt="christian199815" /> </p>
 
-- 🔭 I’m currently busy with the minor <a href="christian199815.github.io/MWDND/">Web Design & Development</a>
+- 🔭 I just finished my Minor Web Design & Development with a 9.3/10</a>
 
 - 🌱 I’m currently learning **new skills with Html, Css and JS**
 
