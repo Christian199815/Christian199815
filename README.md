@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **what project we could work on together**
 
-- 📫 How to reach me **cchdonkervault@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
